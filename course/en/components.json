@@ -249,22 +249,6 @@
     "_layout": "full"
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5c62ab054ab016053a7f409e",
-    "_parentId": "5c61743b36c3ab0530458f3f",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -597,6 +581,27 @@
       "large": "course/en/assets/5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg",
       "small": "course/en/assets/5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg",
       "attribution": "pexels <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "<p>Blah blah</p>",
+    "instruction": "",
+    "_id": "5c62ab054ab016053a7f409e",
+    "_parentId": "5c61743b36c3ab0530458f3f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     }
   },
   {
