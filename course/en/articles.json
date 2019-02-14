@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61743c36c3ab0530458f41",
+    "_parentId": "5c61743c36c3ab0530458f40",
+    "_type": "article"
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61744436c3ab0530458f47",
+    "_parentId": "5c61744436c3ab0530458f46",
+    "_type": "article"
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61743a36c3ab0530458f3b",
+    "_parentId": "5c61743a36c3ab0530458f3a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61743b36c3ab0530458f3e",
+    "_parentId": "5c61743b36c3ab0530458f3d",
+    "_type": "article"
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61742636c3ab0530458f38",
+    "_parentId": "5c61742636c3ab0530458f37",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61744136c3ab0530458f44",
+    "_parentId": "5c61744136c3ab0530458f43",
+    "_type": "article"
+  },
+  {
+    "title": "Introduction to Data Ecosystem Mapping",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c505634a7d103052b89c515",
+    "_parentId": "5c505634a7d103052b89c514",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5055b3a7d103052b89c511",
+    "_parentId": "5c5055b3a7d103052b89c510",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Describe the use case (Step 1)",
+    "displayTitle": "Describe the use case (Step 1)",
+    "body": "<p>In this module you will learn to describe your use case</p>",
+    "_classes": "",
+    "pageBody": "<p>In this module you will learn to describe your use case</p>",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5055b3a7d103052b89c510",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Map the Data Ecosystem (Steps 2, 3, 4)",
+    "displayTitle": "Map the Data Ecosystem (Steps 2, 3, 4)",
+    "body": "<p>In this module you will learn how to map the data ecosystem of your organisation</p>",
+    "_classes": "",
+    "pageBody": "<p>In this module you will learn how to map the data ecosystem of your organisation</p>",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c505634a7d103052b89c514",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/8484d3a867d4fa223258505d279b542c4c0b82aa.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Map the Legal Issues (Step 5)",
+    "displayTitle": "Map the Legal Issues (Step 5)",
+    "body": "<p>In this module you will learn how to map legal issues around anonymisation</p>",
+    "_classes": "",
+    "pageBody": "<p>In this module you will learn how to map legal issues around anonymisation</p>",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61742636c3ab0530458f37",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1c3f329f20c68f00ad0539906d0fa78d1a83b6ef.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Engage With Stakeholders (Step 6)",
+    "displayTitle": "Engage With Stakeholders (Step 6)",
+    "body": "<p>In this module you will learn how to engage with stakeholders</p>",
+    "_classes": "",
+    "pageBody": "<p>In this module you will learn how to engage with stakeholders</p>",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61743a36c3ab0530458f3a",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/51dcff30c0aa77b883207b892192d37b09103748.jpeg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Evaluate the Data Situation (Step 7)",
+    "displayTitle": "Evaluate the Data Situation (Step 7)",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61743b36c3ab0530458f3d",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Select the processes you will use to assess and control disclosure risk + Implement your chosen disclosure control processes (Steps 8, 9)",
+    "displayTitle": "Select the processes you will use to assess and control disclosure risk + Implement your chosen disclosure control processes (Steps 8, 9)",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61743c36c3ab0530458f40",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Continue to Monitor the Data Situation + Plan how to maintain trust (Steps 10, 11)",
+    "displayTitle": "Continue to Monitor the Data Situation + Plan how to maintain trust (Steps 10, 11)",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61744136c3ab0530458f43",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Plan what to do if things go wrong (Step 12)",
+    "displayTitle": "Plan what to do if things go wrong (Step 12)",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c61744436c3ab0530458f46",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  }
+]

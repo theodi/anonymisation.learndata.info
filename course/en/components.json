@@ -1,0 +1,1131 @@
+[
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Sample Ethics Canvas Questions",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "This is the instruction text",
+    "_id": "5c618ea936c3ab0530458f50",
+    "_parentId": "5c505b39a7d103052b89c519",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "title": "Question 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Question 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Question 3 ",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Question 4",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Question 5",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "narrative",
+    "_classes": "inverted color-two",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c640d3fe5b50d0554ea0fd8",
+    "_parentId": "5c640cefe5b50d0554ea0fd7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "GDPR",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "gdpr"
+      },
+      {
+        "title": "Talk to your lawyers",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Talk to your lawyers"
+      },
+      {
+        "title": "Consult your Data Ecosystem Map",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/ac4369f66eb6ace3db34f71647aa42e77bc4e83b.png",
+          "alt": "",
+          "attribution": "Pixabay"
+        },
+        "strapline": "Consult your data ecosystem map"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62aaf34ab016053a7f409c",
+    "_parentId": "5c61744136c3ab0530458f45",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62bec14ab016053a7f40bc",
+    "_parentId": "5c61911636c3ab0530458f59",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "title": "Personas",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "User research",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6172e936c3ab0530458f33",
+    "_parentId": "5c505634a7d103052b89c516",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "small": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/businessman-hand-stop-dominoes-continuous-toppled-or-risk-with-copyspace_1202140.htm#term=change&page=1&position=9\" target=\"_blank\">snowing / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62aae34ab016053a7f409b",
+    "_parentId": "5c61744436c3ab0530458f48",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62aafc4ab016053a7f409d",
+    "_parentId": "5c61743c36c3ab0530458f42",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62ab054ab016053a7f409e",
+    "_parentId": "5c61743b36c3ab0530458f3f",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62b5414ab016053a7f40a2",
+    "_parentId": "5c5055b3a7d103052b89c512",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "small": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/businessman-hand-stop-dominoes-continuous-toppled-or-risk-with-copyspace_1202140.htm#term=change&page=1&position=9\" target=\"_blank\">snowing / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c61747536c3ab0530458f49",
+    "_parentId": "5c61736636c3ab0530458f36",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "small": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62be944ab016053a7f40b9",
+    "_parentId": "5c61900236c3ab0530458f55",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+      "small": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "NHS case study",
+    "displayTitle": "NHS case study",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c641220e5b50d0554ea0ff3",
+    "_parentId": "5c6411fbe5b50d0554ea0ff1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Map the data ecosystem (steps 2, 3, 4)",
+    "displayTitle": "Map the data ecosystem (steps 2, 3, 4)",
+    "body": "<p>In this module you will learn how to map the data ecosystem of your organisation</p><p>This module explains:</p><ul><li>What is a data ecosystem</li><li>Why is it important for anonymisation</li><li>How to build your data ecosystem map</li></ul>",
+    "instruction": "",
+    "_id": "5c62a7474ab016053a7f4098",
+    "_parentId": "5c62a6af4ab016053a7f4096",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data Spectrum",
+    "displayTitle": "Data Spectrum",
+    "body": "",
+    "instruction": "",
+    "_id": "5c618ff236c3ab0530458f54",
+    "_parentId": "5c618fd436c3ab0530458f52",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/80b804f05b219a758f22b498158f901b5a638a94.png",
+      "small": "course/en/assets/40ea6a26109bfd9e74e2c78f56bebcce4577ffc6.jpg",
+      "attribution": "<a href=\"http://theodi.org/data-spectrum\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c640ea4e5b50d0554ea0fdd",
+    "_parentId": "5c640e82e5b50d0554ea0fdc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
+      "small": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
+      "attribution": "Pexels <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c640ba4e5b50d0554ea0fcf",
+    "_parentId": "5c61742636c3ab0530458f39",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "small": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How to build your Data Ecosystem Map",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c629cd04ab016053a7f4091",
+    "_parentId": "5c629c694ab016053a7f408f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Add the main agents",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/ac4369f66eb6ace3db34f71647aa42e77bc4e83b.png",
+          "alt": "",
+          "attribution": "Pixabay"
+        },
+        "strapline": "add the agents"
+      },
+      {
+        "title": "Connect the agents with Lines",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/businessman-hand-stop-dominoes-continuous-toppled-or-risk-with-copyspace_1202140.htm#term=change&page=1&position=9\" target=\"_blank\">snowing / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "connect"
+      },
+      {
+        "title": "Think about intangible connections",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+          "alt": "intangible connections",
+          "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Intangible connections"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The Data Ethics Canvas",
+    "displayTitle": "The Data Ethics Canvas",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c62bce74ab016053a7f40b2",
+    "_parentId": "5c62bcde4ab016053a7f40b0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62bda54ab016053a7f40b5",
+    "_parentId": "5c505b39a7d103052b89c519",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
+      "small": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
+      "attribution": "wikipedia <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c641076e5b50d0554ea0fe8",
+    "_parentId": "5c61743a36c3ab0530458f3c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg",
+      "small": "course/en/assets/5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg",
+      "attribution": "pexels <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c640f47e5b50d0554ea0fe2",
+    "_parentId": "5c640f3be5b50d0554ea0fe1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5714404bfd17cad06fed3fcc2241329a0b2fc792.png",
+      "small": "course/en/assets/5714404bfd17cad06fed3fcc2241329a0b2fc792.png",
+      "attribution": "Pixabay <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Enagage with stakeholders (step 6)",
+    "displayTitle": "Enagage with stakeholders (step 6)",
+    "body": "<p>In this module you will learn how to engage with stakeholders</p><p>This module explains:</p><ul><li>types of stakeholders</li><li>tools you can use</li><li>What next</li></ul>",
+    "instruction": "",
+    "_id": "5c62ab0d4ab016053a7f409f",
+    "_parentId": "5c61743a36c3ab0530458f3c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Map the legal issues (step 5)",
+    "displayTitle": "Map the legal issues (step 5)",
+    "body": "<p>In this module you will learn how to map the legal issues</p><p>This module explains:</p><ul><li>What are the legal issues</li><li>Data protection impact assesment</li><li>What next</li></ul>",
+    "instruction": "",
+    "_id": "5c62ab1a4ab016053a7f40a0",
+    "_parentId": "5c61742636c3ab0530458f39",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why is it important to describe the use case?",
+    "displayTitle": "Why is it important to describe the use case?",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c62bb444ab016053a7f40ad",
+    "_parentId": "5c62bb364ab016053a7f40ab",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62befb4ab016053a7f40be",
+    "_parentId": "5c61911636c3ab0530458f59",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+      "small": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is a Data Ecosystem Map?",
+    "displayTitle": "What is a Data Ecosystem Map?",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6174b736c3ab0530458f4a",
+    "_parentId": "5c61736636c3ab0530458f36",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The data spectrum",
+    "displayTitle": "The data spectrum",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c618feb36c3ab0530458f53",
+    "_parentId": "5c618fd436c3ab0530458f52",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Describe the use case (step 1)",
+    "displayTitle": "Describe the use case (step 1)",
+    "body": "<p>In this module you will learn how to describe your use case</p><p>This module explains:</p><ul><li>What is a use case</li><li>Why is it important for anonymisation</li><li>How to describe your use case using the&nbsp;<ul><li>Data Ethics Canvas</li><li>Data Spectrum</li><li>User design tools</li></ul></li></ul>",
+    "instruction": "",
+    "_id": "5c5055b3a7d103052b89c513",
+    "_parentId": "5c5055b3a7d103052b89c512",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62bb3d4ab016053a7f40ac",
+    "_parentId": "5c62bb364ab016053a7f40ab",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1f8c7e3d597436c3d216fa07ecf04d3f5da7ce21.jpg",
+      "small": "course/en/assets/1f8c7e3d597436c3d216fa07ecf04d3f5da7ce21.jpg",
+      "attribution": "PXhere <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62b7d84ab016053a7f40a7",
+    "_parentId": "5c62b7b44ab016053a7f40a5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Anonymisation along the data spectrum",
+    "displayTitle": "Anonymisation along the data spectrum",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c61900f36c3ab0530458f56",
+    "_parentId": "5c61900236c3ab0530458f55",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62bce24ab016053a7f40b1",
+    "_parentId": "5c62bcde4ab016053a7f40b0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0046371e600da47ea29e4084115c22e8d2ab92de.png",
+      "small": "course/en/assets/0046371e600da47ea29e4084115c22e8d2ab92de.png",
+      "attribution": "ODI <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is a use case",
+    "displayTitle": "What is a use case",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c62b7d24ab016053a7f40a6",
+    "_parentId": "5c62b7b44ab016053a7f40a5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c62a7144ab016053a7f4097",
+    "_parentId": "5c62a6af4ab016053a7f4096",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "small": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c64121ae5b50d0554ea0ff2",
+    "_parentId": "5c6411fbe5b50d0554ea0ff1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/af356f5b46bf507575f4024a5110b457494c53da.jpg",
+      "small": "course/en/assets/af356f5b46bf507575f4024a5110b457494c53da.jpg",
+      "attribution": "<a href=\"Reisnl, Gantz, Rydning\" target=\"_blank\">Reisnl, Gantz, Rydning, Klein</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why is Data Ecosystem Mapping important?",
+    "displayTitle": "Why is Data Ecosystem Mapping important?",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c505662a7d103052b89c517",
+    "_parentId": "5c505634a7d103052b89c516",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Other things to consider",
+    "displayTitle": "Other things to consider",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c640f4ce5b50d0554ea0fe3",
+    "_parentId": "5c640f3be5b50d0554ea0fe1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "inverted color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c641127e5b50d0554ea0fec",
+    "_parentId": "5c6410eae5b50d0554ea0feb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Data consumers",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "data consumers"
+      },
+      {
+        "title": "data providers",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "data providers"
+      },
+      {
+        "title": "data subjects",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "data subjects"
+      },
+      {
+        "title": "internal managers",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
+          "alt": "",
+          "attribution": "Pexels <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "internal managers"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c640eb4e5b50d0554ea0fde",
+    "_parentId": "5c640e82e5b50d0554ea0fdc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "title": "Step 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 4 ",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  }
+]
