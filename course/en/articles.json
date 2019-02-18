@@ -1,7 +1,7 @@
 [
   {
     "title": "Article title",
-    "displayTitle": "Article title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -11,21 +11,12 @@
     "_isVisible": true,
     "_id": "5c61743c36c3ab0530458f41",
     "_parentId": "5c61743c36c3ab0530458f40",
-    "_type": "article"
-  },
-  {
-    "title": "Article title",
-    "displayTitle": "Article title",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5c61744436c3ab0530458f47",
-    "_parentId": "5c61744436c3ab0530458f46",
-    "_type": "article"
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": "Article title",
@@ -48,7 +39,7 @@
   },
   {
     "title": "Article title",
-    "displayTitle": "Article title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -58,7 +49,12 @@
     "_isVisible": true,
     "_id": "5c61743b36c3ab0530458f3e",
     "_parentId": "5c61743b36c3ab0530458f3d",
-    "_type": "article"
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": "Article title",
@@ -81,7 +77,7 @@
   },
   {
     "title": "Article title",
-    "displayTitle": "Article title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -91,7 +87,12 @@
     "_isVisible": true,
     "_id": "5c61744136c3ab0530458f44",
     "_parentId": "5c61744136c3ab0530458f43",
-    "_type": "article"
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": "Introduction to Data Ecosystem Mapping",

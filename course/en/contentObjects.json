@@ -106,9 +106,9 @@
   {
     "title": "Evaluate the Data Situation (Step 7)",
     "displayTitle": "Evaluate the Data Situation (Step 7)",
-    "body": "",
+    "body": "<p>In this module you will learn how to evaluate the data situation</p>",
     "_classes": "",
-    "pageBody": "",
+    "pageBody": "<p>In this module you will learn how to evaluate the data situation</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -121,7 +121,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/d5c7d9badc6a7e9c50673ea2330202c89aafae72.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -132,9 +132,9 @@
   {
     "title": "Select the processes you will use to assess and control disclosure risk + Implement your chosen disclosure control processes (Steps 8, 9)",
     "displayTitle": "Select the processes you will use to assess and control disclosure risk + Implement your chosen disclosure control processes (Steps 8, 9)",
-    "body": "",
+    "body": "<p>In this module you will learn about disclosure risk</p>",
     "_classes": "",
-    "pageBody": "",
+    "pageBody": "<p>In this module you will learn about disclosure risk</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -147,7 +147,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/1f8c7e3d597436c3d216fa07ecf04d3f5da7ce21.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -156,11 +156,11 @@
     }
   },
   {
-    "title": "Continue to Monitor the Data Situation + Plan how to maintain trust (Steps 10, 11)",
-    "displayTitle": "Continue to Monitor the Data Situation + Plan how to maintain trust (Steps 10, 11)",
-    "body": "",
+    "title": "Next steps (Steps 10, 11, 12)",
+    "displayTitle": "Next steps (Steps 10, 11, 12)",
+    "body": "<p>In this module you will learn about how&nbsp;to Monitor the Data Situation, maintain trust &amp; what to do if things go wrong</p>",
     "_classes": "",
-    "pageBody": "",
+    "pageBody": "<p>In this module you will learn about how&nbsp;to Monitor the Data Situation, maintain trust &amp; what to do if things go wrong</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -173,33 +173,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    }
-  },
-  {
-    "title": "Plan what to do if things go wrong (Step 12)",
-    "displayTitle": "Plan what to do if things go wrong (Step 12)",
-    "body": "",
-    "_classes": "",
-    "pageBody": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5c61744436c3ab0530458f46",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
+      "src": "course/en/assets/0beb228fb743b462edfe0f4ba9a81ff55c1479d1.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,

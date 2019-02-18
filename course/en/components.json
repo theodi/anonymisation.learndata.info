@@ -1,5 +1,80 @@
 [
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Monitor the data situation",
+    "displayTitle": "Monitor the data situation",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6ad616a412930549d485e6",
+    "_parentId": "5c6ad607a412930549d485e5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ad619a412930549d485e7",
+    "_parentId": "5c6ad607a412930549d485e5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8f277953d14cfb1549be9835720b0660f89f367f.jpeg",
+      "small": "course/en/assets/8f277953d14cfb1549be9835720b0660f89f367f.jpeg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/3d-infographic-on-mobile-phone_785882.htm\" target=\"_blank\">Nucleartist / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ad71da412930549d485f1",
+    "_parentId": "5c6ad6efa412930549d485ef",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ba480652a95a23964820181a8e0f0a11a8a59489.jpg",
+      "small": "course/en/assets/ba480652a95a23964820181a8e0f0a11a8a59489.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/boy-child-childhood-class-207653/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
     "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
@@ -130,22 +205,6 @@
     ]
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5c62aaf34ab016053a7f409c",
-    "_parentId": "5c61744136c3ab0530458f45",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
     "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
@@ -223,17 +282,22 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
+    "title": "Monitor the Data Situation, maintain trust & what to do if things go wrong (Steps 10, 11, 12)",
+    "displayTitle": "Monitor the Data Situation, maintain trust & what to do if things go wrong (Steps 10, 11, 12)",
+    "body": "<p>In this module you will learn how to Continue to Monitor the Data Situation, maintain trust &amp; what to do if things go wrong</p><p>This module explains:</p><ul><li>how do you monitor the data situation</li><li>How to maintain trust</li><li>What next</li></ul>",
     "instruction": "",
-    "_id": "5c62aae34ab016053a7f409b",
-    "_parentId": "5c61744436c3ab0530458f48",
+    "_id": "5c62aaf34ab016053a7f409c",
+    "_parentId": "5c61744136c3ab0530458f45",
     "_type": "component",
-    "_layout": "full"
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
-    "_component": "text",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -243,10 +307,21 @@
     "displayTitle": "Component title",
     "body": "",
     "instruction": "",
-    "_id": "5c62aafc4ab016053a7f409d",
-    "_parentId": "5c61743c36c3ab0530458f42",
+    "_id": "5c6acfc7a412930549d485e0",
+    "_parentId": "5c61744136c3ab0530458f45",
     "_type": "component",
-    "_layout": "full"
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "small": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
   },
   {
     "_component": "graphic",
@@ -300,6 +375,89 @@
       "large": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
       "small": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
       "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Spot the personal data",
+    "displayTitle": "Spot the personal data",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6accf8a412930549d485d2",
+    "_parentId": "5c6accf7a412930549d485ce",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "text": "Column A",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Column B",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Column C",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
@@ -378,6 +536,89 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ace71a412930549d485dc",
+    "_parentId": "5c6ace6ba412930549d485db",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1b9b187c2737e4047a280ecf75ff0e7e18075938.png",
+      "small": "course/en/assets/1b9b187c2737e4047a280ecf75ff0e7e18075938.png",
+      "attribution": "<a href=\"Flickr\" target=\"_blank\">Flickr</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ac531a412930549d485b0",
+    "_parentId": "5c6ac525a412930549d485af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Steps to doing a threat model",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/businessman-hand-stop-dominoes-continuous-toppled-or-risk-with-copyspace_1202140.htm#term=change&page=1&position=9\" target=\"_blank\">snowing / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "steps"
+      },
+      {
+        "title": "DEM threat model",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/ac4369f66eb6ace3db34f71647aa42e77bc4e83b.png",
+          "alt": "",
+          "attribution": "Pixabay"
+        },
+        "strapline": "DEM threat model"
+      },
+      {
+        "title": "NHS example",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/96b6cd0425d0e6c097364266c019094dfabaea62.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/achievement-action-adventure-backlit-209209/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "NHS example"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "title": "Data Spectrum",
     "displayTitle": "Data Spectrum",
     "body": "",
@@ -396,6 +637,27 @@
       "large": "course/en/assets/80b804f05b219a758f22b498158f901b5a638a94.png",
       "small": "course/en/assets/40ea6a26109bfd9e74e2c78f56bebcce4577ffc6.jpg",
       "attribution": "<a href=\"http://theodi.org/data-spectrum\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Implement and iterate",
+    "displayTitle": "Implement and iterate",
+    "body": "<p>Having selected your chosen methods, you should implement them. You may need to iterate between risk assessment and control to balance risk with data utility.</p>",
+    "instruction": "",
+    "_id": "5c6ace76a412930549d485dd",
+    "_parentId": "5c6ace6ba412930549d485db",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     }
   },
   {
@@ -590,18 +852,45 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "<p>Blah blah</p>",
+    "title": "Evaluate the Data Situation (Step 7)",
+    "displayTitle": "Evaluate the Data Situation (Step 7)",
+    "body": "<p>In this module you will learn how to evaluate the data situation</p><p>This module explains:</p><ul><li>What is the data situation</li><li>How to assess it</li><li>What next</li></ul>",
     "instruction": "",
     "_id": "5c62ab054ab016053a7f409e",
     "_parentId": "5c61743b36c3ab0530458f3f",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "block",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c66af315e2bea052714ffd6",
+    "_parentId": "5c66af215e2bea052714ffd5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
+      "small": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
+      "attribution": "Pexels <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -743,6 +1032,89 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Spot the personal data",
+    "displayTitle": "Spot the personal data",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6acc84a412930549d485cc",
+    "_parentId": "5c6acc84a412930549d485c8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "text": "Column A",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Column B",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Column C",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -764,6 +1136,52 @@
     }
   },
   {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6acd79a412930549d485d3",
+    "_parentId": "5c6acc79a412930549d485c2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "anonymised 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "anonymised 1"
+      },
+      {
+        "title": "anonymised 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "anon 2"
+      }
+    ]
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -783,6 +1201,60 @@
       "_classes": "",
       "_percentInviewVertical": 50
     }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ace05a412930549d485d7",
+    "_parentId": "5c6acde6a412930549d485d6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "title": "technique one",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "technique 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "technique 3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
   },
   {
     "_component": "graphic",
@@ -860,6 +1332,52 @@
     }
   },
   {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ad66da412930549d485eb",
+    "_parentId": "5c6ad65ba412930549d485ea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "trust technique 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg",
+          "alt": "",
+          "attribution": "pexels <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "trust 1"
+      },
+      {
+        "title": "trust 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "_graphic": {
+          "src": "course/en/assets/ece1ff17af924eabd3aa353843fcc2f670f303c0.png",
+          "alt": "",
+          "attribution": "<a href=\"https://pixabay.com/en/percentage-percent-digit-discount-1924521/\" target=\"_blank\">pramit_marattha</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "trust 2"
+      }
+    ]
+  },
+  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -935,6 +1453,89 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Spot the personal data",
+    "displayTitle": "Spot the personal data",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6ac97ea412930549d485bd",
+    "_parentId": "5c6ac860a412930549d485bb",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "text": "Column A",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Column B",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Column C",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -1004,6 +1605,129 @@
     }
   },
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Assessing and controlling disclosure risk",
+    "displayTitle": "Assessing and controlling disclosure risk",
+    "body": "<p>In this module you will learn how to assess and control the risk of disclosure</p><p>This module explains:</p><ul><li>What are the disclosure risks</li><li>How to assess them</li><li>What next</li></ul>",
+    "instruction": "",
+    "_id": "5c62aafc4ab016053a7f409d",
+    "_parentId": "5c61743c36c3ab0530458f42",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "GDPR – are you compliant?",
+    "displayTitle": "GDPR – are you compliant?",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c66af385e2bea052714ffd7",
+    "_parentId": "5c66af215e2bea052714ffd5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6accf8a412930549d485cf",
+    "_parentId": "5c6accf7a412930549d485ce",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ad719a412930549d485f0",
+    "_parentId": "5c6ad6efa412930549d485ef",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_items": [
+      {
+        "title": "wrong thing 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "wrong thing 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "wrong thing 3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
     "_component": "narrative",
     "_classes": "inverted color-one",
     "_isOptional": false,
@@ -1070,6 +1794,108 @@
     ]
   },
   {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6acc84a412930549d485c9",
+    "_parentId": "5c6acc84a412930549d485c8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ac47fa412930549d485a5",
+    "_parentId": "5c6ac46ea412930549d485a4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dd449c9174abf75025ef274103dda5a9dc09fcbc.jpg",
+      "small": "course/en/assets/dd449c9174abf75025ef274103dda5a9dc09fcbc.jpg",
+      "attribution": "<a href=\"https://callingbullshit.org\" target=\"_blank\">University of Washington</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What does 'data situation' mean?",
+    "displayTitle": "What does 'data situation' mean?",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6ac485a412930549d485a6",
+    "_parentId": "5c6ac46ea412930549d485a4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c66b2725e2bea052714ffe0",
+    "_parentId": "5c61743b36c3ab0530458f3f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eec4a485042f130df230075de7fac9f454552496.jpg",
+      "small": "course/en/assets/eec4a485042f130df230075de7fac9f454552496.jpg",
+      "attribution": "Wikipedia <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
     "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
@@ -1132,5 +1958,134 @@
       }
     ],
     "_shouldCollapseItems": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c66b08d5e2bea052714ffdb",
+    "_parentId": "5c61743c36c3ab0530458f42",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c2263b0f02a3e3afbee4f6ddc15f3e6cc674a80c.jpg",
+      "small": "course/en/assets/c2263b0f02a3e3afbee4f6ddc15f3e6cc674a80c.jpg",
+      "attribution": "Steve PB - Pixabay <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ace0ea412930549d485d8",
+    "_parentId": "5c6acde6a412930549d485d6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
+      "small": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
+      "attribution": "wikipedia <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ac982a412930549d485be",
+    "_parentId": "5c6ac860a412930549d485bb",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ac4eca412930549d485ab",
+    "_parentId": "5c6ac4cca412930549d485aa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Threat models",
+    "displayTitle": "Threat models",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "instruction": "",
+    "_id": "5c6ac4f1a412930549d485ac",
+    "_parentId": "5c6ac4cca412930549d485aa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   }
 ]

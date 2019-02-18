@@ -27,9 +27,10 @@
       "adapt-theme-odi",
       "adapt-contrib-boxMenu",
       "adapt-contrib-graphic",
-      "adapt-contrib-text",
       "adapt-contrib-accordion",
-      "adapt-contrib-narrative"
+      "adapt-contrib-narrative",
+      "adapt-contrib-text",
+      "adapt-contrib-mcq"
     ]
   }
 }
