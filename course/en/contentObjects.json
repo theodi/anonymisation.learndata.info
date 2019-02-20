@@ -23,6 +23,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -49,6 +64,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -75,6 +105,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -101,6 +146,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -127,6 +187,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -153,6 +228,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -179,6 +269,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
     }
   }
 ]

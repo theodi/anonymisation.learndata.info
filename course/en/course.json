@@ -163,5 +163,18 @@
       }
     }
   },
-  "_type": "course"
+  "_type": "course",
+  "_aboutPage": {
+    "_items": []
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_ODILicence": {
+    "_items": []
+  },
+  "_FooterLink": {
+    "_items": []
+  }
 }

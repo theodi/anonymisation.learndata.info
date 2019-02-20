@@ -26,6 +26,11 @@
     "includes": [
       "adapt-theme-odi",
       "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-odi-licence",
+      "adapt-odi-footerLink",
       "adapt-contrib-graphic",
       "adapt-contrib-accordion",
       "adapt-contrib-narrative",
