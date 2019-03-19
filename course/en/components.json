@@ -407,106 +407,20 @@
     }
   },
   {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Spot the personal data",
-    "displayTitle": "Spot the personal data",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c6accf8a412930549d485d2",
-    "_parentId": "5c6accf7a412930549d485ce",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_items": [
-      {
-        "text": "Column A",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Column B",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Column C",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": false,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "graphic",
+    "_component": "narrative",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "title": "Component title",
-    "displayTitle": "Component title",
+    "displayTitle": "",
     "body": "",
     "instruction": "",
-    "_id": "5c6ace71a412930549d485dc",
-    "_parentId": "5c6ace6ba412930549d485db",
+    "_id": "5c6acd79a412930549d485d3",
+    "_parentId": "5c6acc79a412930549d485c2",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -515,12 +429,31 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/1b9b187c2737e4047a280ecf75ff0e7e18075938.png",
-      "small": "course/en/assets/1b9b187c2737e4047a280ecf75ff0e7e18075938.png",
-      "attribution": "<a href=\"Flickr\" target=\"_blank\">Flickr</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Analysing Passenger’s Journey Times",
+        "body": "<p>A public transport company wants to open its travel data to the public for research and commercial use. However, they want to remove personal geolocation data. With generalisation of ages, hashing of travel card numbers, we can release this data being much more confident that individuals can&rsquo;t be re-identified.&nbsp;</p><p>TODO: Add dataset as image</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/6b659dd3bfd4965fe7c72565f2b226bc0166b06b.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "anonymised 1"
+      },
+      {
+        "title": "Accident & Emergency Admittance Data",
+        "body": "<p>A health service want to release A&amp;E data for use by health researchers to study treatment times around the country. However, they want to keep this very sensitive health data private. By focusing on the specific use case they decided to suppress patient IDs, hospital names, and arrival dates. They then generalised the postcode in to area codes and the times in to 4-hour blocks.&nbsp;</p><p>TODO: add dataset as image</p>",
+        "_graphic": {
+          "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "anon 2"
+      }
+    ]
   },
   {
     "_component": "narrative",
@@ -675,30 +608,6 @@
     "_parentId": "5c505634a7d103052b89c516",
     "_type": "component",
     "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Implement and iterate",
-    "displayTitle": "Implement and iterate",
-    "body": "<p>Having selected your chosen methods, you should implement them. You may need to iterate between risk assessment and control to balance risk with data utility.</p>",
-    "instruction": "",
-    "_id": "5c6ace76a412930549d485dd",
-    "_parentId": "5c6ace6ba412930549d485db",
-    "_type": "component",
-    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -1105,92 +1014,6 @@
     }
   },
   {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Spot the personal data",
-    "displayTitle": "Spot the personal data",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c6acc84a412930549d485cc",
-    "_parentId": "5c6acc84a412930549d485c8",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_items": [
-      {
-        "text": "Column A",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Column B",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Column C",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": false,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -1215,55 +1038,6 @@
     }
   },
   {
-    "_component": "narrative",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c6acd79a412930549d485d3",
-    "_parentId": "5c6acc79a412930549d485c2",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "anonymised 1",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
-          "alt": "",
-          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
-        },
-        "strapline": "anonymised 1"
-      },
-      {
-        "title": "anonymised 2",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
-          "alt": "",
-          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
-        },
-        "strapline": "anon 2"
-      }
-    ]
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -1286,63 +1060,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     }
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c6ace05a412930549d485d7",
-    "_parentId": "5c6acde6a412930549d485d6",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_items": [
-      {
-        "title": "technique one",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "technique 2",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "technique 3",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": false
   },
   {
     "_component": "accordion",
@@ -1546,92 +1263,6 @@
     }
   },
   {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Spot the personal data",
-    "displayTitle": "Spot the personal data",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c6ac97ea412930549d485bd",
-    "_parentId": "5c6ac860a412930549d485bb",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_items": [
-      {
-        "text": "Column A",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Column B",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Column C",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": false,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -1725,9 +1356,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Assessing and controlling disclosure risk",
-    "displayTitle": "Assessing and controlling disclosure risk",
-    "body": "<p>In this module you will learn how to assess and control the risk of disclosure</p><p>This module explains:</p><ul><li>What are the disclosure risks</li><li>How to assess them</li><li>What next</li></ul>",
+    "title": "Identify the processes you will need to control disclosure risk",
+    "displayTitle": "Identify the processes you will need to control disclosure risk",
+    "body": "<p>Choosing the right anonymisation methods depends on your specific data situation. This will involve surveying the available techniques in two areas.&nbsp;</p><p>Firstly, control. How to make sure unwanted people can&rsquo;t access personal information? Do you simply remove names? Do you only share the data under a licence? Do you use differential privacy?</p><p>Secondly, assessment. What are your test mechanisms to ensure you have the right balance between utility and risk in the data? User interviews? Penetration testing? Correlation analysis?</p><p>To do these, you&rsquo;ll need to have a good understanding of what is and is not personal data and range anonymisation techniques out there. &nbsp;</p><p>In this module you&rsquo;ll:</p><ul><li>How to recognise personal data you may need to anonymise</li><li>Examples of anonymisation&nbsp;</li><li>An overview of the 3 main anonymisation methods</li></ul>",
     "instruction": "",
     "_id": "5c62aafc4ab016053a7f409d",
     "_parentId": "5c61743c36c3ab0530458f42",
@@ -1743,7 +1374,7 @@
     }
   },
   {
-    "_component": "graphic",
+    "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1753,8 +1384,65 @@
     "displayTitle": "",
     "body": "",
     "instruction": "",
-    "_id": "5c6accf8a412930549d485cf",
-    "_parentId": "5c6accf7a412930549d485ce",
+    "_id": "5c6ace05a412930549d485d7",
+    "_parentId": "5c6acde6a412930549d485d6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Suppression",
+        "body": "<p>This is the deletion of values, be it entire records or attributes that directly identify people. For instance, removing a Name column or a certain rows&rsquo; Address value. The effectiveness of suppression depends on who the data is released to and what other possible linking datasets they may have access to.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disruption",
+        "body": "<p>Where a small amount of random noise is added to individual attributes prior to publication. This means the attributes will be less accurate on a small or individual scale but across the entire dataset the overall patterns. For instance, if we added or subtracted up to 10cm from a dataset of people&rsquo;s heights. We couldn&rsquo;t be sure of any one person&rsquo;s height, but be confident that the mean and variance were realistic.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Generalisation",
+        "body": "<p>Changing the scale or order of the value. By making data less precise, generalisation hopes to strike a balance between full-on suppression of values and low-level disruption. Examples of this would be putting in a salary range for individuals instead of an exact number, or for a birth date only leaving in the year. As the range is made large the privacy of the variable increases but the utility decreases. &nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Spot the personal data",
+    "displayTitle": "Spot the personal data",
+    "body": "<p>Accident &amp; Emergency Admittance Data</p><p>&nbsp;</p><p>Health service ID, Hospital, Arrival Time, Time in A&amp;E (mins), Treatment, Gender, Age, Postcode</p><p>&nbsp;</p><p>For a more in-depth guide to personal data, please see the <a href=\"https://ico.org.uk/media/1554/determining-what-is-personal-data.pdf\">ICO&rsquo;s Determining what is personal data?</a> report.</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c6acc84a412930549d485cc",
+    "_parentId": "5c6acc84a412930549d485c8",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1765,11 +1453,92 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
-      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    "_items": [
+      {
+        "text": "Health service ID",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Hospital",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Arrival Time",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Time in A&E (mins)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Treatment",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Gender",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Age",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Postcode",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
@@ -2037,36 +1806,6 @@
       "large": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
       "small": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
       "attribution": "wikipedia <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c6ac982a412930549d485be",
-    "_parentId": "5c6ac860a412930549d485bb",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
-      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {

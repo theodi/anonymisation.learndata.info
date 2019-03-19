@@ -209,7 +209,7 @@
     "displayTitle": "Select the processes you will use to assess and control disclosure risk + Implement your chosen disclosure control processes (Steps 8, 9)",
     "body": "<p>In this module you will learn about disclosure risk</p>",
     "_classes": "",
-    "pageBody": "<p>In this module you will learn about disclosure risk</p>",
+    "pageBody": "<p>Select the processes you will use to assess and control disclosure risk</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -234,15 +234,15 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {

@@ -3,7 +3,7 @@
   "displayTitle": "Prototype – An introduction to the UKAN Anonymisation Decision-Making Framework",
   "body": "<p>Anonymising data before processing, sharing or releasing it is a complex and risky process. Published by the UK Anonymisation Network, the Anonymisation Decision-Making Framework (ADF) offers a comprehensive 12-steps approach to anonymisation, from a thorough mapping of the data situation to the technical process of anonymisation and all the ways to reduce risk before, during and after anonymisation.</p><p>This is a practical companion to the 2nd edition (2019) of the ADF. Integrating some of the text from the ADF and other sources, it will guide you through each of the major steps in the framework, show you practical tools you can use, and point out how others can help you along the way.&nbsp;</p><p><strong>Important:</strong> This guide gives a taster of the things you need to consider if you want to anonymise data effectively. We recommend that you seek expert advice before releasing/sharing data derived from personal data.</p>",
   "description": "",
-  "_latestTrackingId": 33,
+  "_latestTrackingId": 30,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",

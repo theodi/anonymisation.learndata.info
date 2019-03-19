@@ -88,14 +88,6 @@
     "attribution": "Reisnl, Gantz, Rydning, Klein",
     "tags": []
   },
-  "1b9b187c2737e4047a280ecf75ff0e7e18075938.png": {
-    "title": "Zettabytes.png",
-    "description": "",
-    "source": "Flickr",
-    "licence": "CC-BY",
-    "attribution": "Flickr",
-    "tags": []
-  },
   "5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg": {
     "title": "adult-cellphone-communication-1080858.jpg",
     "description": "",
@@ -230,6 +222,14 @@
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "6b659dd3bfd4965fe7c72565f2b226bc0166b06b.jpg": {
+    "title": "35774653192_7e7bd775fa_z.jpg",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
     "tags": []
   }
 }
