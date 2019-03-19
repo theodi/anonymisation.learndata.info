@@ -84,9 +84,9 @@
   {
     "title": "Map the Legal Issues (Step 5)",
     "displayTitle": "Map the Legal Issues (Step 5)",
-    "body": "<p>In this module you will learn how to map legal issues around anonymisation</p>",
+    "body": "<p>How legislation and regulation impacts your project, how to organise compliance, and who can help you.</p><p>&nbsp;</p>",
     "_classes": "",
-    "pageBody": "<p>In this module you will learn how to map legal issues around anonymisation</p>",
+    "pageBody": "<p>How legislation and regulation impacts your project, how to organise compliance, and who can help you.</p><p>&nbsp;</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -111,15 +111,15 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {

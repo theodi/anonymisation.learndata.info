@@ -213,7 +213,7 @@
     "_items": [
       {
         "title": "GDPR",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "body": "<p>The General Data Protection Regulation (GDPR) came into force in May 2018 and governs the processing of personal data the free movement of personal data for within the European Union and for EU citizens generally. Anonymised data is not considered in scope for GDPR, but personal data before anonymisation is.&nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
           "alt": "",
@@ -222,8 +222,8 @@
         "strapline": "gdpr"
       },
       {
-        "title": "Talk to your lawyers",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "GDPR and national legislation",
+        "body": "<p>The application of GDPR varies from one country to another: in the UK, the 2018 Data Protection Act implements and extends GDPR.</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
           "alt": "",
@@ -232,8 +232,8 @@
         "strapline": "Talk to your lawyers"
       },
       {
-        "title": "Consult your Data Ecosystem Map",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Talk to your DPO and legal team",
+        "body": "<p>Most organisations will be required by GDPR to appoint a Data Protection Officer. Your DPO may be able to help you understand and navigate your legal context and requirements. If in doubt, talk to your legal team.</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/ac4369f66eb6ace3db34f71647aa42e77bc4e83b.png",
           "alt": "",
@@ -641,6 +641,55 @@
     }
   },
   {
+    "_component": "narrative",
+    "_classes": "inverted color-two",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c90edfb168efa054562da5b",
+    "_parentId": "5c90edfb168efa054562da5a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Data controllers and processors",
+        "body": "<p>GDPR and other regulations make an important distinction between data controller, the actors(s) determining the manner in which, and the purposes for which, the data are processed, and data processors, who processes the data on behalf of the data controller. Overall responsibility for the data lies with the data controllers, while data processors are mostly held accountable through contract and agreements.&nbsp;</p><p><a href=\"https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf\">More info at the ICO</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "gdpr"
+      },
+      {
+        "title": "Use your data ecosystem map",
+        "body": "<p>Data protection legislation will largely concern itself with data flows (including how the data came to be under your stewardship) and actors (data subjects, data controllers and data processors). The data ecosystem map you created in earlier steps should give you a good picture of both.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+          "alt": "",
+          "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Talk to your lawyers"
+      }
+    ]
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -689,18 +738,18 @@
     }
   },
   {
-    "_component": "graphic",
+    "_component": "text",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
+    "title": "Data Protection Impact Assessment",
+    "displayTitle": "Data Protection Impact Assessment",
+    "body": "<p>The ICO defines a <a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/\">Data Protection Impact Assessment</a> (DPIA) as a process to help you identify and minimise the data protection risks of a project. You must do a DPIA for processing that is likely to result in a high risk to individuals.</p><p>(Use image?: <a href=\"https://ico.org.uk/media/2258436/dpia1.png\">https://ico.org.uk/media/2258436/dpia1.png</a>)&nbsp;</p><p>You do not have to create your DPIA process from scratch. The ICO offers guidance and templates, and you may find examples of how others in your sector or domain have done it.</p><p>Examples in:</p><ul><li>Academia: <a href=\"https://www.ois.cam.ac.uk/resources-for-colleges/data-protection-resources/data-protection-impact-assessments/dpia-example-01-donor-research-using-public-information/view\">Donor research using public information</a>&nbsp;</li><li>Public Sector: <a href=\"https://www.southampton.gov.uk/modernGov/documents/s33697/MRD%20-%20DPIA.pdf\">Community Wellbeing Centre (Local council)</a>&nbsp;</li><li>Third Sector: <a href=\"https://www.rcpch.ac.uk/sites/default/files/2018-10/pia_2018-01_nnap_pia_final_approved_v1.1.pdf\">National Neonatal Audit Programme (UK Charity)</a>&nbsp;</li></ul>",
     "instruction": "",
-    "_id": "5c640ea4e5b50d0554ea0fdd",
-    "_parentId": "5c640e82e5b50d0554ea0fdc",
+    "_id": "5c640f4ce5b50d0554ea0fe3",
+    "_parentId": "5c640f3be5b50d0554ea0fe1",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -710,12 +759,6 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": true
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
-      "small": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
-      "attribution": "Pexels <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -956,36 +999,6 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "block",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c66af315e2bea052714ffd6",
-    "_parentId": "5c66af215e2bea052714ffd5",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
-      "small": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
-      "attribution": "Pexels <span class='assetLicence'>[CC0]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
     "title": "Component title",
     "displayTitle": "",
     "body": "",
@@ -1042,7 +1055,7 @@
     "_isVisible": true,
     "title": "Map the legal issues (step 5)",
     "displayTitle": "Map the legal issues (step 5)",
-    "body": "<p>In this module you will learn how to map the legal issues</p><p>This module explains:</p><ul><li>What are the legal issues</li><li>Data protection impact assesment</li><li>What next</li></ul>",
+    "body": "<p>Legislation and regulation can impede, allow or even impel the flow of data. It is crucial to understand the legal context and obligations before proceeding any further.&nbsp;</p><p>This module explains:</p><ul><li>What are the legal issues to consider</li><li>Data Protection Impact Assessments</li><li>What next</li></ul>",
     "instruction": "",
     "_id": "5c62ab1a4ab016053a7f40a0",
     "_parentId": "5c61742636c3ab0530458f39",
@@ -1700,30 +1713,6 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Other things to consider",
-    "displayTitle": "Other things to consider",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c640f4ce5b50d0554ea0fe3",
-    "_parentId": "5c640f3be5b50d0554ea0fe1",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
     "title": "Assessing and controlling disclosure risk",
     "displayTitle": "Assessing and controlling disclosure risk",
     "body": "<p>In this module you will learn how to assess and control the risk of disclosure</p><p>This module explains:</p><ul><li>What are the disclosure risks</li><li>How to assess them</li><li>What next</li></ul>",
@@ -1732,30 +1721,6 @@
     "_parentId": "5c61743c36c3ab0530458f42",
     "_type": "component",
     "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "GDPR – are you compliant?",
-    "displayTitle": "GDPR – are you compliant?",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c66af385e2bea052714ffd7",
-    "_parentId": "5c66af215e2bea052714ffd5",
-    "_type": "component",
-    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2034,73 +1999,6 @@
       "small": "course/en/assets/eec4a485042f130df230075de7fac9f454552496.jpg",
       "attribution": "Wikipedia <span class='assetLicence'>[CC-BY]</span>"
     }
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c640eb4e5b50d0554ea0fde",
-    "_parentId": "5c640e82e5b50d0554ea0fdc",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_items": [
-      {
-        "title": "Step 1",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Step 2",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Step 3",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Step 4 ",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": false
   },
   {
     "_component": "graphic",
