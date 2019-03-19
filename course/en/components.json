@@ -24,30 +24,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Monitor the data situation",
-    "displayTitle": "Monitor the data situation",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c6ad616a412930549d485e6",
-    "_parentId": "5c6ad607a412930549d485e5",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -304,9 +280,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Monitor the Data Situation, maintain trust & what to do if things go wrong (Steps 10, 11, 12)",
-    "displayTitle": "Monitor the Data Situation, maintain trust & what to do if things go wrong (Steps 10, 11, 12)",
-    "body": "<p>In this module you will learn how to Continue to Monitor the Data Situation, maintain trust &amp; what to do if things go wrong</p><p>This module explains:</p><ul><li>how do you monitor the data situation</li><li>How to maintain trust</li><li>What next</li></ul>",
+    "title": "Next Steps",
+    "displayTitle": "",
+    "body": "<p>The situation, and risks, will evolve over time. Plan how you will deal with changes, be prepared in case something goes wrong, and more generally actively maintain trust in your management of risk.</p><p>&nbsp;</p>",
     "instruction": "",
     "_id": "5c62aaf34ab016053a7f409c",
     "_parentId": "5c61744136c3ab0530458f45",
@@ -317,6 +293,25 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c90fcde168efa054562da60",
+    "_parentId": "5c6ad65ba412930549d485ea",
+    "_type": "component",
+    "_layout": "full",
     "_pageLevelProgress": {
       "_isEnabled": true
     }
@@ -1407,6 +1402,30 @@
     "_shouldCollapseItems": false
   },
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Monitor the data situation",
+    "displayTitle": "Monitor the data situation",
+    "body": "<p>The data situation you have evaluated, and the risks you have assessed and worked to mitigate, may change over time. New technology may be created or made easier to access, other data may be made available, new actors may come into the ecosystem.&nbsp;</p><p>Putting in place mechanisms to review and monitor changes in the data situation, so you can revise your risk management processes accordingly. The Anonymisation Decision making framework recommends that you:</p><ol><li>Keep a register of all the data you have shared or released - and keep those in mind whenever going through the process, especially looking out for linkage risks</li><li>If possible, keep track of how the data you shared or released is used</li><li>Review the whole process (steps 1-9) frequently</li><li>Keep track of all the changes, and assess whether changes require a complete case review.</li><li>Put in place a policy for carrying out that monitoring with clear lines of responsibility.</li></ol>",
+    "instruction": "",
+    "_id": "5c6ad616a412930549d485e6",
+    "_parentId": "5c6ad607a412930549d485e5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -1465,55 +1484,6 @@
       "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
       "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
-  },
-  {
-    "_component": "narrative",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c6ad66da412930549d485eb",
-    "_parentId": "5c6ad65ba412930549d485ea",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "trust technique 1",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "src": "course/en/assets/5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg",
-          "alt": "",
-          "attribution": "pexels <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "trust 1"
-      },
-      {
-        "title": "trust 2",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-        "_graphic": {
-          "src": "course/en/assets/ece1ff17af924eabd3aa353843fcc2f670f303c0.png",
-          "alt": "",
-          "attribution": "<a href=\"https://pixabay.com/en/percentage-percent-digit-discount-1924521/\" target=\"_blank\">pramit_marattha</a> <span class='assetLicence'>[CC0]</span>"
-        },
-        "strapline": "trust 2"
-      }
-    ]
   },
   {
     "_component": "graphic",
@@ -1692,6 +1662,63 @@
     }
   },
   {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c6ad719a412930549d485f0",
+    "_parentId": "5c6ad6efa412930549d485ef",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Breach management and notification",
+        "body": "<p>When a breach happens, your main objective will be to contain it as well as possible, but it is only the beginning of breach management. The process you should put in place and follow in case of a breach should also include steps - and clear responsibility - for assessing and dealing with any ongoing risk, notification of a breach to stakeholders (including the ICO), and review and learning lessons.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Communication",
+        "body": "<p>Make sure your crisis management plan includes a strategy for communicating with stakeholder, especially those who may potentially be directly affected by the breach, the ICO, the media and other interested parties. Transparency is always preferable but you will probably need time to get all the key information together so you may need an initial holding response to stakeholders such as &lsquo;we are investigating the matter</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Review",
+        "body": "<p>&nbsp;A crucial part of your crisis plan involves how you will learn lessons from the event and put procedures in place to prevent a further occurrence. You should stipulate who will undertake the review and within what time frame.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -1744,63 +1771,6 @@
       "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
       "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5c6ad719a412930549d485f0",
-    "_parentId": "5c6ad6efa412930549d485ef",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "_items": [
-      {
-        "title": "wrong thing 1",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "wrong thing 2",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "wrong thing 3",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": false
   },
   {
     "_component": "narrative",

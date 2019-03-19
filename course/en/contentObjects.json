@@ -246,8 +246,8 @@
     }
   },
   {
-    "title": "Next steps (Steps 10, 11, 12)",
-    "displayTitle": "Next steps (Steps 10, 11, 12)",
+    "title": "Maintain Trust (Steps 10, 11, 12)",
+    "displayTitle": "Maintain Trust (Steps 10, 11, 12)",
     "body": "<p>In this module you will learn about how&nbsp;to Monitor the Data Situation, maintain trust &amp; what to do if things go wrong</p>",
     "_classes": "",
     "pageBody": "<p>In this module you will learn about how&nbsp;to Monitor the Data Situation, maintain trust &amp; what to do if things go wrong</p>",
@@ -275,15 +275,15 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   }
 ]

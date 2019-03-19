@@ -35,6 +35,7 @@
       "adapt-contrib-accordion",
       "adapt-contrib-narrative",
       "adapt-contrib-text",
+      "adapt-contrib-blank",
       "adapt-contrib-mcq"
     ]
   }

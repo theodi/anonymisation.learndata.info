@@ -55,8 +55,8 @@
     }
   },
   {
-    "title": "Continue to Monitor the Data Situation + Plan how to maintain trust (Steps 10, 11)",
-    "displayTitle": "",
+    "title": "Next Steps",
+    "displayTitle": "Next Steps",
     "body": "<p>&nbsp;</p><ul></ul>",
     "_classes": "",
     "_trackingId": 4,
@@ -395,17 +395,17 @@
     }
   },
   {
-    "title": "Maintain trust",
-    "displayTitle": "Maintain trust",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "_classes": "",
+    "title": "What to do if things go wrong",
+    "displayTitle": "What to do if things go wrong",
+    "body": "<p>This process is about managing risk, not negating it. An adverse event could still happen.&nbsp;</p><p>As you implement your risk management processes, you should also in place a crisis management policy, carefully considering a range of scenarios, and possible actions that you could take for each.</p>",
+    "_classes": "color-one",
     "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5c6ad65ba412930549d485ea",
+    "_id": "5c6ad6efa412930549d485ef",
     "_parentId": "5c61744136c3ab0530458f44",
     "_type": "block",
     "_onScreen": {
@@ -515,9 +515,9 @@
     }
   },
   {
-    "title": "What to do if things go wrong",
-    "displayTitle": "What to do if things go wrong",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p><p>&nbsp;</p>",
+    "title": "Maintain trust",
+    "displayTitle": "Maintain trust",
+    "body": "<p>Maintaining the trust of your stakeholders is not just a matter of behaving in a trustworthy way. It also involves engaging with them to make your trustworthiness evident to them.&nbsp;</p><p>Communication need not be frequent, but you need to be transparent, and to be able to send updates if the position changes. You also need to provide stakeholders with a responsible point of contact, so that they can communicate any concerns to you directly.</p>",
     "_classes": "inverted color-one",
     "_trackingId": 27,
     "instruction": "",
@@ -525,7 +525,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5c6ad6efa412930549d485ef",
+    "_id": "5c6ad65ba412930549d485ea",
     "_parentId": "5c61744136c3ab0530458f44",
     "_type": "block",
     "_onScreen": {
