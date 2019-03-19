@@ -125,9 +125,9 @@
   {
     "title": "Engage With Stakeholders (Step 6)",
     "displayTitle": "Engage With Stakeholders (Step 6)",
-    "body": "<p>In this module you will learn how to engage with stakeholders</p>",
+    "body": "<p>Types of stakeholders, how they differ, and why understanding them is important</p><p>&nbsp;</p>",
     "_classes": "",
-    "pageBody": "<p>In this module you will learn how to engage with stakeholders</p>",
+    "pageBody": "<p>Types of stakeholders, how they differ, and why understanding them is important</p><p>&nbsp;</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -152,23 +152,23 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
     "title": "Evaluate the Data Situation (Step 7)",
     "displayTitle": "Evaluate the Data Situation (Step 7)",
-    "body": "<p>In this module you will learn how to evaluate the data situation</p>",
+    "body": "<p>Put all the information gathered so far into a holistic view of the data situation, and use that picture to evaluate the risks in your project.</p><p>&nbsp;</p>",
     "_classes": "",
-    "pageBody": "<p>In this module you will learn how to evaluate the data situation</p>",
+    "pageBody": "<p>Put all the information gathered so far into a holistic view of the data situation, and use that picture to evaluate the risks in your project.</p><p>&nbsp;</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -193,15 +193,15 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {

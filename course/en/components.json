@@ -498,30 +498,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "NHS case study",
-    "displayTitle": "NHS case study",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c641220e5b50d0554ea0ff3",
-    "_parentId": "5c6411fbe5b50d0554ea0ff1",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -579,8 +555,8 @@
     "_setCompletionOn": "inview",
     "_items": [
       {
-        "title": "Steps to doing a threat model",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Work with others",
+        "body": "<p>Thinking through risk scenarios is extremely difficult to do alone. As the data steward and the person planning to process or share data, you may have blind spots preventing you from effectively thinking about what might go wrong.</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
           "alt": "",
@@ -589,8 +565,8 @@
         "strapline": "steps"
       },
       {
-        "title": "DEM threat model",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Mapping data flows  ",
+        "body": "<p>In our exercise on A&amp;E data, we used the ODI&rsquo;s Data Ecosystem Map to get a view of all the actors in the flow of data - including people who may never see the data in any shape or form but are impacted by the ecosystem of insights, products or services the data may enable. This is a good way to think of people or organisations which may be impacted by the risk, or who may be the root of the risk.</p><p>[use image: synAE ecosystem map on Kumu]</p>",
         "_graphic": {
           "src": "course/en/assets/ac4369f66eb6ace3db34f71647aa42e77bc4e83b.png",
           "alt": "",
@@ -599,8 +575,8 @@
         "strapline": "DEM threat model"
       },
       {
-        "title": "NHS example",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Using the data spectrum",
+        "body": "<p>Mapping a whole data ecosystem may yield a very long list of actors, which in turn should all be considered as potential adversaries or impacted by the risk scenarios. As a way to speed up the process, using the data spectrum to think about the governance and ease of access to the data may help you draw groups of actors in similar situations. In the health service case, we identified a group of organisations likely to use the anonymised open data, but who also had access to related data through separate data sharing agreements. We were able to think of risks and scenarios for this group as a whole.</p><p>[use image: data spectrum]</p><p><a href=\"https://docs.google.com/presentation/d/1hOW7eOEoJ9zy12GeHgAXfKP0LpE2pr8YHrvZAFLZLXM/edit#slide=id.g4fedce4337_0_1519 \">Read more on this threat modelling exercise</a>.</p>",
         "_graphic": {
           "src": "course/en/assets/96b6cd0425d0e6c097364266c019094dfabaea62.jpg",
           "alt": "",
@@ -816,6 +792,63 @@
     }
   },
   {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Risk scenarios",
+    "displayTitle": "",
+    "body": "<p>There are several types of risk associated with an anonymisation project. The most obvious may be re-identification &ndash; the possibility that a person may be identified in the data, and private information learned about them. There are however many others.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c90f3a1168efa054562da5f",
+    "_parentId": "5c6ac4cca412930549d485aa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Data breach",
+        "body": "<p>Consider what may happen if data is shared anonymously, but the security of the data kept pre-anonymisation is insufficient, leading to the breach of private information.&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Misidentification",
+        "body": "<p>A type of scenario where individuals are not identifiable in the data, but an &quot;educated guess&quot; can be made as to the identity of the person whose data is anonymised. Drawing the wrong conclusions from the data can be just as harmful as learning private information about people</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Membership attack",
+        "body": "<p>Breaking anonymisation is not simply a matter of looking at the data and guessing who might be behind it. Frequent cases of re-identification or breaches of anonymisation start by knowing information about someone who may be represented in the data, checking if they are, and then trying to learn something new about them</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
     "_component": "narrative",
     "_classes": "",
     "_isOptional": false,
@@ -969,30 +1002,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Evaluate the Data Situation (Step 7)",
-    "displayTitle": "Evaluate the Data Situation (Step 7)",
-    "body": "<p>In this module you will learn how to evaluate the data situation</p><p>This module explains:</p><ul><li>What is the data situation</li><li>How to assess it</li><li>What next</li></ul>",
-    "instruction": "",
-    "_id": "5c62ab054ab016053a7f409e",
-    "_parentId": "5c61743b36c3ab0530458f3f",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -1020,30 +1029,6 @@
       "large": "course/en/assets/5714404bfd17cad06fed3fcc2241329a0b2fc792.png",
       "small": "course/en/assets/5714404bfd17cad06fed3fcc2241329a0b2fc792.png",
       "attribution": "Pixabay <span class='assetLicence'>[CC0]</span>"
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Enagage with stakeholders (step 6)",
-    "displayTitle": "Enagage with stakeholders (step 6)",
-    "body": "<p>In this module you will learn how to engage with stakeholders</p><p>This module explains:</p><ul><li>types of stakeholders</li><li>tools you can use</li><li>What next</li></ul>",
-    "instruction": "",
-    "_id": "5c62ab0d4ab016053a7f409f",
-    "_parentId": "5c61743a36c3ab0530458f3c",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
     }
   },
   {
@@ -1846,7 +1831,7 @@
     "_items": [
       {
         "title": "Data consumers",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "body": "<p>The people who are using the data. Engagement with them will be focused on their use cases and how you are maintaining access to the data. Also helping them understand the importance in protecting people&rsquo;s personal data even at the risk of limiting their analyses.&nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
           "alt": "",
@@ -1855,8 +1840,8 @@
         "strapline": "data consumers"
       },
       {
-        "title": "data providers",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Data Providers",
+        "body": "<p>Who is providing the data to you. They&rsquo;ll care about questions such as who has access to the original data? Who has access to the de-identified data? What other datasets are combined together? How do we ensure data subjects privacy? What infrastructure are you using to store and share the data?</p>",
         "_graphic": {
           "src": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
           "alt": "",
@@ -1865,8 +1850,8 @@
         "strapline": "data providers"
       },
       {
-        "title": "data subjects",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Data Subjects",
+        "body": "<p>The people who are represented in the data. They will likely be the largest and most disperse group. As such, one of the challenges will be communicating widely and concisely about the complexities of anonymisation and sharing data. &nbsp;They&rsquo;ll need to understand, at some level, about de-identification of data, the security of the original data, and the sharing of de-identified data.&nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/df64c89bf8710076af40345fe9adadde44585b9b.png",
           "alt": "",
@@ -1875,8 +1860,8 @@
         "strapline": "data subjects"
       },
       {
-        "title": "internal managers",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+        "title": "Internal Managers",
+        "body": "<p>Certain decision-makers within your organisation will need to kept informed about the project. This could be legal, management, or communication teams. While you mightn&rsquo;t directly answer to some of them, their voices will be used to judge whether the project is worth undertaking and continuing. They&rsquo;ll also be worried about reputational or legal damage to the organisation should the project go wrong.</p>",
         "_graphic": {
           "src": "course/en/assets/f177adf0efd658921f1a01f85748e806c8a9d82a.jpg",
           "alt": "",
@@ -1953,9 +1938,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "What does 'data situation' mean?",
-    "displayTitle": "What does 'data situation' mean?",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
+    "title": "What does “data situation” mean?",
+    "displayTitle": "What does “data situation” mean?",
+    "body": "<p>The data situation is the relationship between data and its environment.&nbsp;</p><p>Risk does not inherently lie in the data, nor in the environment, but in the data situation. For example, sharing data may only be risky if you share it with people who have access to related datasets, increasing the risks of linkage.&nbsp;</p>",
     "instruction": "",
     "_id": "5c6ac485a412930549d485a6",
     "_parentId": "5c6ac46ea412930549d485a4",
@@ -1998,6 +1983,30 @@
       "large": "course/en/assets/eec4a485042f130df230075de7fac9f454552496.jpg",
       "small": "course/en/assets/eec4a485042f130df230075de7fac9f454552496.jpg",
       "attribution": "Wikipedia <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Health Service Case Study",
+    "displayTitle": "Health Service Case Study",
+    "body": "<p>A health service wants to open up some of its A&amp;E data to encourage transparency and to help researchers, government and the public improve the service.&nbsp;</p><p>They know that health data can contain extremely sensitive information about people. However, they also believe the advantages to the health service could be great. They decide to release a set of A&amp;E data that has gone through a significant de-identification process. To do this, they must engage with a set of important stakeholders and ask them certain questions.&nbsp;</p><p>Here are just some of the questions they could ask of of the stakeholders.</p><p><strong>Health Researchers</strong>: What insights are they trying to find out? What are some crucial variables to keep in the data? How do they want the data presented? Do they understand the importance of anonymising the data?&nbsp;</p><p><strong>A&amp;E Patients</strong>: Do they know their data is being collected at all? What is the best way to inform possibly millions of people the ? How do you communicate best to the public at large? Using what media? How do you avoid people becoming distrustful of the health service? How can they find out more information on the project?</p><p><strong>Health Watchdogs:</strong> Do the understand the technical difference between the original data and the anonymised data? What will convince them that the released data is sufficiently secure? How do they want the anonymisation process documented?&nbsp;</p><p><strong>Health Service Management:&nbsp;</strong>What departments and teams should be involved? What are their concerns about what could go wrong with the project? How often will you be in communication with them? Could some of them shut down the project?&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c641220e5b50d0554ea0ff3",
+    "_parentId": "5c6411fbe5b50d0554ea0ff1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -2091,6 +2100,54 @@
     }
   },
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Enagage with stakeholders (step 6)",
+    "displayTitle": "Enagage with stakeholders (step 6)",
+    "body": "<p>That your stakeholders believe you are a trustworthy steward of the data, and that you understand the data&rsquo;s risks and benefits, is important for the success of the project. Bad communication can lead to public mistrust, false insights and even project shutdown. While clear, empathic and continuous engagement can not only reduce misunderstanding but help the release of your dataset and increase its impact.&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c62ab0d4ab016053a7f409f",
+    "_parentId": "5c61743a36c3ab0530458f3c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Understanding and managing risk",
+    "displayTitle": "Understanding and managing risk",
+    "body": "<p>Anonymisation is about managing risk. It is not about removing all risk, but about taking precautions. When anonymisation is done well the risk of disclosing information referring to individuals should be negligible.</p><p>At the heart of risk evaluation is usually an exercise to determine what scenarios could lead to harm, and then assess both how likely each scenario may be, and how harmful would its consequences be. Combining likelihood and severity, while not a precise measure, is usually considered a good proxy for assessing risk.&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c62ab054ab016053a7f409e",
+    "_parentId": "5c61743b36c3ab0530458f3f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -2118,30 +2175,6 @@
       "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
       "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
       "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Threat models",
-    "displayTitle": "Threat models",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c6ac4f1a412930549d485ac",
-    "_parentId": "5c6ac4cca412930549d485aa",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
     }
   }
 ]
