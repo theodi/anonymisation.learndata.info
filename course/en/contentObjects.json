@@ -4,7 +4,7 @@
     "displayTitle": "Describe the use case (Step 1)",
     "body": "<p>In this module you will learn to describe your use case</p>",
     "_classes": "",
-    "pageBody": "<p>In this module you will learn to describe your use case</p>",
+    "pageBody": "<p>What are use cases, why they&rsquo;re important for anonymisation, how to develop them and other questions you can ask your users.</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -29,15 +29,15 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
