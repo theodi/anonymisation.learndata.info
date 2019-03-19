@@ -2,7 +2,7 @@
   {
     "title": "Describe the use case (Step 1)",
     "displayTitle": "Describe the use case (Step 1)",
-    "body": "<p>In this module you will learn to describe your use case</p>",
+    "body": "<p>What are use cases, why they&rsquo;re important for anonymisation, how to develop them and other questions you can ask your users.</p><p>&nbsp;</p>",
     "_classes": "",
     "pageBody": "<p>What are use cases, why they&rsquo;re important for anonymisation, how to develop them and other questions you can ask your users.</p>",
     "linkText": "View",
@@ -43,9 +43,9 @@
   {
     "title": "Map the Data Ecosystem (Steps 2, 3, 4)",
     "displayTitle": "Map the Data Ecosystem (Steps 2, 3, 4)",
-    "body": "<p>In this module you will learn how to map the data ecosystem of your organisation</p>",
+    "body": "<p>How to map the data ecosystem of your organisation.</p><p>&nbsp;</p>",
     "_classes": "",
-    "pageBody": "<p>In this module you will learn how to map the data ecosystem of your organisation</p>",
+    "pageBody": "<p>How to map the data ecosystem of your organisation.</p><p>&nbsp;</p>",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -70,15 +70,15 @@
       "SL_text": "",
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_ODILicence": {
       "_items": []
     },
     "_FooterLink": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {

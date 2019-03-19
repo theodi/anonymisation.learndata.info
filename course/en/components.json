@@ -6,6 +6,30 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "title": "Map the data ecosystem (steps 2, 3, 4)",
+    "displayTitle": "Map the data ecosystem (steps 2, 3, 4)",
+    "body": "<p>Data ecosystems consist of the organisations, communities and people that create and benefit from the value created by the data flowing through our data infrastructure. Before publishing anonymised data it is important to map your own data ecosystem. This can help your organisation identify the key data stewards and users within your ecosystem, the relationships between them and the different roles they play.&nbsp;</p><p>This module explains:</p><ul><li>What is a data ecosystem</li><li>Why is it important for anonymisation</li><li>How to construct your data ecosystem map</li></ul>",
+    "instruction": "",
+    "_id": "5c62a7474ab016053a7f4098",
+    "_parentId": "5c62a6af4ab016053a7f4096",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "title": "Monitor the data situation",
     "displayTitle": "Monitor the data situation",
     "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
@@ -498,30 +522,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Map the data ecosystem (steps 2, 3, 4)",
-    "displayTitle": "Map the data ecosystem (steps 2, 3, 4)",
-    "body": "<p>In this module you will learn how to map the data ecosystem of your organisation</p><p>This module explains:</p><ul><li>What is a data ecosystem</li><li>Why is it important for anonymisation</li><li>How to build your data ecosystem map</li></ul>",
-    "instruction": "",
-    "_id": "5c62a7474ab016053a7f4098",
-    "_parentId": "5c62a6af4ab016053a7f4096",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -638,6 +638,30 @@
       "large": "course/en/assets/80b804f05b219a758f22b498158f901b5a638a94.png",
       "small": "course/en/assets/40ea6a26109bfd9e74e2c78f56bebcce4577ffc6.jpg",
       "attribution": "<a href=\"http://theodi.org/data-spectrum\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why is Data Ecosystem Mapping important?",
+    "displayTitle": "Why is Data Ecosystem Mapping important?",
+    "body": "<p>Data ecosystem maps can make it easier to explain the ecosystems that exist around products and services. They are particularly useful when contexts are complex, not well understood or not yet fully developed.&nbsp;</p><p>When finished, the map is valuable as a communication tool to support engagement across the data ecosystem. In addition, there is value to be gained from the process of drawing it. Mapping requires you to consider different actors, relationships and ideas in the system, and can generate useful insights and talking points.&nbsp;</p><p>In the context of anonymisation, it is possible to build upon a data ecosystem map to identify where in your ecosystem anonymisation processes will occur and where data will exist in anonymised and non-anonymised states. This can further help your organisation think about potential threats and benefits to the organisations, communities and people within your ecosystem.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c505662a7d103052b89c517",
+    "_parentId": "5c505634a7d103052b89c516",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -776,8 +800,8 @@
     "_setCompletionOn": "inview",
     "_items": [
       {
-        "title": "Add the main agents",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&nbsp;</p>",
+        "title": "Identify the main categories of actors in the ecosystem",
+        "body": "<p>Before beginning the process of constructing your map, it can be helpful to define a list of actors and data flows within your ecosystem. Common roles include: data stewards, regulators, intermediaries, creators (or resusers of data), beneficiaries and policymakers.</p>",
         "_graphic": {
           "src": "course/en/assets/ac4369f66eb6ace3db34f71647aa42e77bc4e83b.png",
           "alt": "",
@@ -786,8 +810,8 @@
         "strapline": "add the agents"
       },
       {
-        "title": "Connect the agents with Lines",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&nbsp;</p>",
+        "title": "Map the data flows between actors",
+        "body": "<p>Once you have identified the main actors in your ecosystem, you can begin drawing the ecosystem on a whiteboard or on post-it notes. Starting with a single organisation you can draw lines and arrows between actors to represent the various data flows within the system. It is often helpful to start with the area of the ecosystem that you know best and to expand out from there. As you fill out your ecosystem, be careful to identify organisations performing anonymisation processes and to differentiate between arrows representing anonymised data versus non-anonymised data.</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
           "alt": "",
@@ -796,14 +820,24 @@
         "strapline": "connect"
       },
       {
-        "title": "Think about intangible connections",
-        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&nbsp;</p>",
+        "title": "Map the exchanges of tangible and intangible value",
+        "body": "<p>After mapping the data flows between actors you can then draw lines and arrows to represent any exchanges of tangible and intangible value within the system. Examples of exchanges of tangible value include physical goods, money, services provided and any charges for those services. Common examples of intangible value include exchanges of knowledge, feedback, insights, support or policy advice. &nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
           "alt": "intangible connections",
           "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
         },
         "strapline": "Intangible connections"
+      },
+      {
+        "title": "Identify any potential benefits or threats to actors within the system",
+        "body": "<p>Now that you have a working map of the various actors in your ecosystem, the data flows and the tangible and intangible value exchanged between actors you can use the map to identify [vulnerabilities, bottlenecks or security threats] and [guide conversations] about potential benefits and harms to the organisations, communities and people within your ecosystem.&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/9c08724f0ecc9cf526f29509c830c81414df59c7.png",
+          "alt": "",
+          "attribution": "wikipedia <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Identify any potential benefits or threats to actors within the system"
       }
     ]
   },
@@ -1078,30 +1112,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "What is a Data Ecosystem Map?",
-    "displayTitle": "What is a Data Ecosystem Map?",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c6174b736c3ab0530458f4a",
-    "_parentId": "5c61736636c3ab0530458f36",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
@@ -1188,6 +1198,30 @@
     }
   },
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is a Data Ecosystem Map?",
+    "displayTitle": "What is a Data Ecosystem Map?",
+    "body": "<p>A data ecosystem map illustrates the value exchanges in an ecosystem. Drawing on ideas from <a href=\"https://en.wikipedia.org/wiki/Rich_picture\">rich picturing</a>, systems thinking and <a href=\"https://en.wikipedia.org/wiki/Value_network_analysis\">value network analysis</a>, data ecosystem mapping can help your organisation create a visual map that [illustrates] how data is being accessed, used and shared by a variety of organisations.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c6174b736c3ab0530458f4a",
+    "_parentId": "5c61736636c3ab0530458f36",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
     "_component": "narrative",
     "_classes": "",
     "_isOptional": false,
@@ -1245,7 +1279,7 @@
     "_isVisible": true,
     "title": "Describe the use case (step 1)",
     "displayTitle": "Describe the use case (step 1)",
-    "body": "<p>This module explains:</p><p>What is a use case<br />Why it&rsquo;s important to know what in your data to keep and what can be removed<br />How to describe your use case and understand your users with<br />User Research Tools<br />Data Ethics Canvas<br />Data Spectrum</p>",
+    "body": "<p>This module explains:</p><ul><li>What is a use case</li><li>Why it&rsquo;s important to know what to keep in your data and what to remove</li><li>How to describe your use case and understand your users with:<ul><li>User Research Tools</li><li>Data Ethics Canvas</li><li>Data Spectrum</li></ul></li></ul>",
     "instruction": "",
     "_id": "5c5055b3a7d103052b89c513",
     "_parentId": "5c5055b3a7d103052b89c512",
@@ -1657,30 +1691,6 @@
       "large": "course/en/assets/af356f5b46bf507575f4024a5110b457494c53da.jpg",
       "small": "course/en/assets/af356f5b46bf507575f4024a5110b457494c53da.jpg",
       "attribution": "<a href=\"Reisnl, Gantz, Rydning\" target=\"_blank\">Reisnl, Gantz, Rydning, Klein</a> <span class='assetLicence'>[CC0]</span>"
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Why is Data Ecosystem Mapping important?",
-    "displayTitle": "Why is Data Ecosystem Mapping important?",
-    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>",
-    "instruction": "",
-    "_id": "5c505662a7d103052b89c517",
-    "_parentId": "5c505634a7d103052b89c516",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
     }
   },
   {
