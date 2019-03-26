@@ -32,14 +32,6 @@
     "attribution": "Pexels",
     "tags": []
   },
-  "0beb228fb743b462edfe0f4ba9a81ff55c1479d1.jpg": {
-    "title": "Numbers",
-    "description": "Numbers",
-    "source": "https://commons.wikimedia.org/wiki/File:Numbers.jpg",
-    "licence": "CC0",
-    "attribution": "Ianmacm",
-    "tags": []
-  },
   "8f277953d14cfb1549be9835720b0660f89f367f.jpeg": {
     "title": "3D infographic on mobile phone",
     "description": "sales graph",
@@ -64,36 +56,12 @@
     "attribution": "Steve PB - Pixabay",
     "tags": []
   },
-  "eec4a485042f130df230075de7fac9f454552496.jpg": {
-    "title": "Nightingale-mortality.jpg",
-    "description": "",
-    "source": "",
-    "licence": "CC-BY",
-    "attribution": "Wikipedia",
-    "tags": []
-  },
-  "d5c7d9badc6a7e9c50673ea2330202c89aafae72.jpg": {
-    "title": "tim berners-lee.jpg",
-    "description": "",
-    "source": "flickr",
-    "licence": "CC-BY",
-    "attribution": "",
-    "tags": []
-  },
   "af356f5b46bf507575f4024a5110b457494c53da.jpg": {
     "title": "costs of storage and global data availability 2.jpg",
     "description": "",
     "source": "Reisnl, Gantz, Rydning",
     "licence": "CC0",
     "attribution": "Reisnl, Gantz, Rydning, Klein",
-    "tags": []
-  },
-  "5a53d3c84af3b8db22d751cf19ada32de81b723b.jpg": {
-    "title": "adult-cellphone-communication-1080858.jpg",
-    "description": "",
-    "source": "",
-    "licence": "CC-BY-SA",
-    "attribution": "pexels",
     "tags": []
   },
   "0046371e600da47ea29e4084115c22e8d2ab92de.png": {
@@ -104,28 +72,12 @@
     "attribution": "ODI",
     "tags": []
   },
-  "51dcff30c0aa77b883207b892192d37b09103748.jpeg": {
-    "title": "Learning on a phone.jpeg",
-    "description": "",
-    "source": "Rawpixel on Pixabay",
-    "licence": "CC-BY",
-    "attribution": "",
-    "tags": []
-  },
   "9c08724f0ecc9cf526f29509c830c81414df59c7.png": {
     "title": "code of ethics.png",
     "description": "",
     "source": "",
     "licence": "CC-BY-SA",
     "attribution": "wikipedia",
-    "tags": []
-  },
-  "1c3f329f20c68f00ad0539906d0fa78d1a83b6ef.jpg": {
-    "title": "stats practice.jpg",
-    "description": "",
-    "source": "",
-    "licence": "CC0",
-    "attribution": "Pixabay",
     "tags": []
   },
   "5714404bfd17cad06fed3fcc2241329a0b2fc792.png": {
@@ -158,14 +110,6 @@
     "source": "",
     "licence": "",
     "attribution": "Pixabay",
-    "tags": []
-  },
-  "23cd95335b7d50cbb539e196dc5df4543ddba989.png": {
-    "title": "Lloyd's PPL Global",
-    "description": "Lloyd's PPL Global",
-    "source": "https://tomsupports.london/placing-platform-limited",
-    "licence": "All rights reserved",
-    "attribution": "London Market Group",
     "tags": []
   },
   "ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png": {
@@ -216,16 +160,64 @@
     "attribution": "Freepik",
     "tags": []
   },
-  "8484d3a867d4fa223258505d279b542c4c0b82aa.png": {
-    "title": "ODI wasteland",
-    "description": "ODI wasteland theory of change",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
   "6b659dd3bfd4965fe7c72565f2b226bc0166b06b.jpg": {
     "title": "35774653192_7e7bd775fa_z.jpg",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "3c5bdd18bd553978e967b933bc617475b8ec32e5.png": {
+    "title": "Describe the use case.png",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "38f6f3f82ac7199fd4bc6ef3e55811d3f7cfb7eb.png": {
+    "title": "Map the data ecosystem.png",
+    "description": "Map the data ecosystem",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "2036e93afb38bb51d37c7ba59374eab1188f926f.png": {
+    "title": "Map the legal issues.png",
+    "description": "Map the legal issues",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "913446508efbecba407f6ac160acbffe4875d655.png": {
+    "title": "Engage with stakeholders.png",
+    "description": "Engage with stakeholders",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "e5cec186ea66cef9266dfa6e793169ab3122af4d.png": {
+    "title": "Evaluate the data situation.png",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "2d5af63032265713d6cf24239cd010630e1ec5dc.png": {
+    "title": "Risk.png",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "7c52aec0ca284ae3a8927a4162932a947cb06205.png": {
+    "title": "Maintain trust.png",
     "description": "",
     "source": "",
     "licence": "",
